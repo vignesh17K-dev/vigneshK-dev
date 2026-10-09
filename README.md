@@ -1,78 +1,109 @@
-# 👋 Hey, I'm Vignesh K
+<!-- Modern GitHub Profile README -->
 
-### Frontend Developer · React · TypeScript · UI Engineering
+<div align="center">
 
-I build modern, responsive, and user-friendly web experiences. I enjoy turning ideas into polished interfaces, solving engineering problems, and exploring new technologies.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:312E81,100:06B6D4&text=Vignesh%20K&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Vignesh K - Frontend Developer"/>
 
-<p align="center">
-  <a href="https://vigneshk-dev-17-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vignesh-k-vk1999">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vignesh17dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://vigneshk-dev-17-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/vignesh-k-vk1999">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:vignesh17dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Crafting+clean+and+scalable+UI;React+%7C+TypeScript+%7C+Frontend;Always+learning+%2C+always+building" alt="Animated introduction"/>
 
-* 💻 Frontend developer passionate about building great user experiences.
-* ⚛️ Working with React, TypeScript, and modern frontend technologies.
-* 📱 Interested in cross-platform development with React Native.
-* 🧪 Focused on quality through testing and maintainable code.
-* 🌱 Exploring AI engineering and AI-powered applications.
-* 🎯 Always learning, building, and improving.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `$ whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,reactnative" alt="Frontend technologies"/>
-</p>
+```javascript
+const vignesh = {
+  role: "Frontend Developer",
+  company: "SourceWiz",
+  experience: "1.3+ years",
+  focus: ["React", "TypeScript", "UI Engineering"],
+  tools: ["React Native", "Cypress", "Git"],
+  currentlyExploring: ["AI Engineering", "AI-powered apps"],
+  mindset: "Build. Learn. Improve. Repeat."
+};
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase,android,ps" alt="Development tools"/>
-</p>
+I enjoy building responsive, accessible, and intuitive user interfaces. My focus is on clean code, maintainable architecture, smooth user experiences, and continuously improving my engineering skills.
 
-**Testing:** Cypress · **Design:** Responsive UI · UI/UX principles
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+
+### Mobile, Testing & Backend Tools
+
+<img src="https://skillicons.dev/icons?i=reactnative,android,firebase,cypress,postman&theme=dark" alt="Mobile and testing technologies"/>
+
+### Developer Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai&theme=dark" alt="Developer tools"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vignesh17-k&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh17-k&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF" alt="Most used programming languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=vignesh17-k&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
-</p>
+<a href="https://github.com/vignesh17-k">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vignesh17-k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/vignesh17-k">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh17-k&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vignesh17-k&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vignesh17-k&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies"/>
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🌐 Find Me Around the Web
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh17-k&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/vignesh17-k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vignesh-k-vk1999">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vigneshk-dev-17-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:vignesh17dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## 🤝 Let's Connect
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vignesh-k-vk1999">LinkedIn</a> ·
-  <a href="https://github.com/vignesh17-k">GitHub</a> ·
-  <a href="https://vigneshk-dev-17-portfolio.netlify.app/">Portfolio</a> ·
-  <a href="mailto:vignesh17dev@gmail.com">Email</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&section=footer" width="100%" alt=""/>
 
-<p align="center">
-  <i>Building thoughtful interfaces, one commit at a time. ✨</i>
-</p>
+**Building thoughtful interfaces, one commit at a time.** ✨
+
+<img src="https://komarev.com/ghpvc/?username=vignesh17-k&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
